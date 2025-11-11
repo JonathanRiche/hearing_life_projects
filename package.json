@@ -1,0 +1,7 @@
+{
+  "name": "hearing_life",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
